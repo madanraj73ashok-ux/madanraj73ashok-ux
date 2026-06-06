@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm MADANRAJ </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Robotics+%26+Automation+Engineer;Founder+of+Torch+Bearer;Tech+Visionary+%7C+Innovator+%7C+Creator;AI+%26+Automation+Enthusiast;Welcome+to+my+GitHub+space+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Robotics+%26+Automation+Engineer;Founder+of+Torch+Bearer;Tech+Visionary+%7C+Innovator+%7C+Creator;AI+%26+Automation+Enthusiast;Welcome+to+my+GitHub+space+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---

@@ -44,15 +44,12 @@ Tech Stack
 
 ---
 
-### Let's Connect
+ Let's Connect
 
-LinkedIn    : [https://www.linkedin.com/in/madanraj2407/]
+LinkedIn : [My LinkedIn](https://www.linkedin.com/in/madanraj2407/)
 
-Email       : [madanraj73ashok@gmail.com]
+GitHub : [My GitHub](https://github.com/madanraj73ashok-ux)
 
-Projects    : [https://github.com/madanraj73ashok-ux]
-
-GitHub      : [https://github.com/madanraj73ashok-ux]
 
 
 ---
@@ -60,7 +57,7 @@ GitHub      : [https://github.com/madanraj73ashok-ux]
 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satish1247&show_icons=true&theme=radical" height="170px"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=madanraj73ashok-ux&show_icons=true&theme=radical" height="170px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user="madanraj73ashok-ux" height="170px"/>
 </p>
 
@@ -79,8 +76,10 @@ Fun Fact
 </p>
 
 ---
+<h2 align="center"> Featured Projects</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Robotics+%26+Thanks for Visiting!;Founder+of+Torch+Bearer;Don't forget to follow and star some repos+%7C+Innovator+%7C+Creator;AI+%26+Thanks for Visiting!;Welcome+to+my+GitHub+space+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madanraj73ashok-ux&show_icons=true&theme=tokyonight" />
 </p>
 
 Thanks for Visiting!

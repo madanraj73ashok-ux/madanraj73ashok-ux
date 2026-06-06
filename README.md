@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Madanraj M</h1>
 
-<h3 align="center">
-Robotics Engineer | AI Developer | Embedded Systems Enthusiast
-</h3>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/madanraj73ashok-ux/madanraj73ashok-ux/main/README-assets/banner.png" />
 </p>

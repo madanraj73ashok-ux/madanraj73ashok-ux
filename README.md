@@ -62,20 +62,6 @@ GitHub : [My GitHub](https://github.com/madanraj73ashok-ux)
   <img src="https://streak-stats.demolab.com?user=madanraj73ashok-ux&theme=radical" height="170px"/>
 </p>
 ---
-
-Fun Fact
-
-> _"The best way to predict the future is to invent it."_ – Alan Kay  
-> _Let's invent the future together through tech!_
-
----
-<h2 align="center"> Featured Projects</h2>
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madanraj73ashok-ux&show_icons=true&theme=tokyonight" />
-</p>
-
----
 <h2 align="center"> Featured Projects</h2>
 
 <p align="center">

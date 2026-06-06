@@ -27,7 +27,7 @@ Tech Stack
 
 ---
 
-##  My Projects
+My Projects
 
 | Project Name | Description |
 |-------------|-------------|
@@ -38,19 +38,17 @@ Tech Stack
 |  Human Following Robot | Computer vision based autonomous robot that follows a person |
 |  RFID Vehicle Speed Control | Automated vehicle speed control using RFID technology |
 
-### 🔗 View More
+View More
 
 [My GitHub Repositories](https://github.com/madanraj73ashok-ux?tab=repositories)
 
 ---
 
- Let's Connect
+Let's Connect
 
 LinkedIn : [My LinkedIn](https://www.linkedin.com/in/madanraj2407/)
 
 GitHub : [My GitHub](https://github.com/madanraj73ashok-ux)
-
-
 
 ---
 
@@ -62,6 +60,4 @@ GitHub : [My GitHub](https://github.com/madanraj73ashok-ux)
   <img src="https://streak-stats.demolab.com?user=madanraj73ashok-ux&theme=radical" height="170px"/>
 </p>
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F57C00&center=true&vCenter=true&width=600&lines=Robotics+%26+Thanks for Visiting!;Founder+of+Torch+Bearer;Tech+Visionary+%7C+Innovator+%7C+Creator;AI+%26+Automation+Enthusiast;Welcome+to+my+GitHub+space+%F0%9F%92%BB" alt="Typing SVG" />
-
+Thank You 

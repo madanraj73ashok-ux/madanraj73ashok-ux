@@ -54,13 +54,13 @@ GitHub : [My GitHub](https://github.com/madanraj73ashok-ux)
 
 ---
 
-GitHub Stats
+ GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=madanraj73ashok-ux&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user="madanraj73ashok-ux" height="170px"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=madanraj73ashok-ux&show_icons=true&theme=radical" height="170px"/>
 
+  <img src="https://streak-stats.demolab.com?user=madanraj73ashok-ux&theme=radical" height="170px"/>
+</p>
 ---
 
 Fun Fact

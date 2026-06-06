@@ -62,11 +62,6 @@ GitHub : [My GitHub](https://github.com/madanraj73ashok-ux)
   <img src="https://streak-stats.demolab.com?user=madanraj73ashok-ux&theme=radical" height="170px"/>
 </p>
 ---
-<h2 align="center"> Featured Projects</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madanraj73ashok-ux&show_icons=true&theme=tokyonight" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F57C00&center=true&vCenter=true&width=600&lines=Robotics+%26+Thanks for Visiting!;Founder+of+Torch+Bearer;Tech+Visionary+%7C+Innovator+%7C+Creator;AI+%26+Automation+Enthusiast;Welcome+to+my+GitHub+space+%F0%9F%92%BB" alt="Typing SVG" />
 
-Thanks for Visiting!
-> Don't forget to follow and star some repos!

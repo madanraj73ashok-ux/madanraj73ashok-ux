@@ -4,7 +4,10 @@
 Robotics Engineer | AI Developer | Embedded Systems Enthusiast
 </h3>
 <p align="center">
-  <img src="YOUR_BANNER_LINK" />
+  <img src="https://raw.githubusercontent.com/madanraj73ashok-ux/madanraj73ashok-ux/main/README-assets/banner.png" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=AI+Developer;Robotics+Engineer;Embedded+Systems+Enthusiast;Python+Developer" />
 </p>
 ## 🚀 About Me
 
@@ -50,10 +53,8 @@ GitHub
 VS Code
 MATLAB
 Proteus
-## 📊 GitHub Stats
+GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=madanraj73ashok-ux&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=madanraj73ashok-ux&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=madanraj73ashok-ux&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madanraj73ashok-ux&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madanraj73ashok-ux&layout=compact&theme=tokyonight)
